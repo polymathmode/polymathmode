@@ -8,6 +8,7 @@ Hi there, I'm Ndu Ulenu 👋
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on building REST APIS and dynamic web applications. Below you'll find more information about me.
 
 😄 About Me
+
 I'm a software engineer passionate about building efficient and scalable web applications. I work across the stack, specializing in Node.js, TypeScript, Express.js, PostgreSQL, MongoDB, and React to create seamless digital experiences.
 
 🚀 I enjoy solving complex problems, designing secure architectures, and collaborating with teams to bring ideas to life. Always eager to learn and explore new technologies, I strive to write clean, maintainable code that drives impactful solutions.
