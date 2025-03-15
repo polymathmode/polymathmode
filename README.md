@@ -1,4 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=polymathmode&color=blue)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=polymathmode&show_icons=true&theme=dark)
 
 
@@ -6,8 +8,8 @@
 Hi there, I'm Ndu Ulenu 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on building REST APIS and dynamic web applications. Below you'll find more information about me.
-
-😄 About Me
+---
+😄### About Me
 
 I'm a software engineer passionate about building efficient and scalable web applications. I work across the stack, specializing in Node.js, TypeScript, Express.js, PostgreSQL, MongoDB, and React to create seamless digital experiences.
 
